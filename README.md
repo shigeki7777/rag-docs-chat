@@ -1,3 +1,5 @@
+> **ARCHIVED** — this repository is a historical case-study project and is no longer actively maintained. SaSame's current work is the [SaSame MCP Factory](https://srl-sasame.com) (see [sasame-mcp-observatory](https://github.com/shigeki7777/sasame-mcp-observatory)).
+
 # RAG over your docs — case study
 
 **Problem.** Teams want an AI that answers from *their* docs — without making things up.
